@@ -1,0 +1,4 @@
+CREATE TABLE amenities (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    add_amenities VARCHAR(255) NOT NULL
+);

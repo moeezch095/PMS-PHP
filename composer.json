@@ -1,0 +1,10 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "*",
+        "bramus/router": "*",
+        "respect/validation": "*",
+        "firebase/php-jwt": "*",
+        "dompdf/dompdf": "^3.1",
+        "barryvdh/laravel-dompdf": "^3.1"
+    }
+}

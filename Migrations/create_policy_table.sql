@@ -1,0 +1,7 @@
+CREATE TABLE policies (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    terms TEXT NOT NULL,
+    document VARCHAR(255),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
